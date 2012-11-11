@@ -1,0 +1,9 @@
+{
+	"id": "com.palmsnipe.chrono",
+	"version": "1.3.0",
+	"vendor": "Cyril Morales",
+	"type": "web",
+	"main": "index.html",
+	"title": "Chrono",
+	"icon": "icon.png"
+}
